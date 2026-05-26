@@ -22,10 +22,10 @@ Aplikasi web toko elektronik berbasis Laravel.
 ![Kontrol Akses Admin](screenshots/Control-Admin.png)
 
 ### 6. Live Updates Tracking
-![Live Updates Tracking](screenshots/Live-update-tracking.png)
+![Live Updates Tracking](screenshots/Live-Update-Tracking.png)
 
 ### 7. Konfirmasi Kehadiran Tamu
-![Konfirmasi Kehadiran Tamu](screenshots/Konfirm-Kehadiran.png)
+![Konfirmasi Kehadiran Tamu](screenshots/Konfirm-kehadiran.png)
 
 ## Screenshot Database
 
